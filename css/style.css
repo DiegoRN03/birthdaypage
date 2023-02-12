@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,200&display=swap');
+
+body{
+  background-image: url(/images/endless-constellation.svg);
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+
+section h2, h3, h4{
+  text-align: center;
+}
+
+h1{
+  font-size: 2.5rem;
+}
+h1:hover{
+  color: #41231c;
+}
+
+h2{
+  font-size: 2rem;
+}
+
+h3{
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+
+
+#container{
+  width: 600px;
+  margin: 100px auto;
+}
+
+.intro img{
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+}
+
+.intro{
+  line-height: 0;
+}
+
+
+/* Letter Section */
+
+aside.right{
+  float: right;
+}
+
+
+
+section.schedule{
+  background-color: #64686865;
+  padding: 40px 40px 45px 40px;
+}
+
+section.schedule p{
+  font-weight: bold;
+}
+
+
+
+/* Letter Section */
+
+section.letter p{
+  font-weight: bold;
+}
+
+
+aside.left {
+  margin-right: 2rem;
+  float: left;
+}
+
+section.letter{
+  background-color: #f1f1f16e;
+  padding: 40px;
+}
+
+
+
+
+
+section.footer{
+  background-color: #1a161671;
+  
+  padding: 40px;
+}
+
+section.footer h2,h3{
+color: white;
+}
+
+section.footer h4{
+  color: white;
+}
+
+.parrafooter{
+  width: 540px;
+  text-align: center;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: rgb(160, 19, 14);
+  transition: all 0.5s ease;
+}
+
+
+
+
+
